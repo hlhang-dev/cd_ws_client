@@ -1,5 +1,6 @@
 name: cd_ws_client
 description: A reusable WebSocket client for Flutter apps.
+repository: https://github.com/hlhang-dev/cd_ws_client
 version: 0.0.1
 homepage:
 
